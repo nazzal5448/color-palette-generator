@@ -1,6 +1,6 @@
 # Color Palette Generator Extension
 
-Color Palette Generator extension is developed by [Mesmeric Apparel](https://github.com/nazzal5448/color-palette-generator.git) for Chrome, Edge, and Firefox. 
+Color Palette Generator extension is developed by [Mesmeric Apparel](https://mesmericapparel.com.bd/) for Chrome, Edge, and Firefox. 
 
 Links:
 
